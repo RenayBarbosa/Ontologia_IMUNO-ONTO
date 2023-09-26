@@ -1,0 +1,3052 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://nemo.inf.ufes.br/imunoOnto.owl#"
+     xml:base="http://nemo.inf.ufes.br/imunoOnto.owl"
+     xmlns:INV="http://nemo.inf.ufes.br/imunoOnto.owl#INV.Characterization14.Drreia_p/"
+     xmlns:_11="http://nemo.inf.ufes.br/imunoOnto.owl#Papilomavirus_Humano_6,_11,"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:INV2="http://nemo.inf.ufes.br/imunoOnto.owl#INV.Characterization5.1"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:Drreia_p="http://nemo.inf.ufes.br/imunoOnto.owl#Drreia_p/"
+     xmlns:imunoOnto="http://nemo.inf.ufes.br/imunoOnto.owl#"
+     xmlns:Apartir_20="http://nemo.inf.ufes.br/imunoOnto.owl#Apartir_20"
+     xmlns:imunoOnto2="http://nemo.inf.ufes.br/imunoOnto.owl#20"
+     xmlns:imunoOnto3="http://nemo.inf.ufes.br/imunoOnto.owl#5"
+     xmlns:imunoOnto5="http://nemo.inf.ufes.br/imunoOnto.owl#4"
+     xmlns:imunoOnto6="http://nemo.inf.ufes.br/imunoOnto.owl#11"
+     xmlns:imunoOnto7="http://nemo.inf.ufes.br/imunoOnto.owl#6"
+     xmlns:imunoOnto8="http://nemo.inf.ufes.br/imunoOnto.owl#18"
+     xmlns:imunoOnto9="http://nemo.inf.ufes.br/imunoOnto.owl#9"
+     xmlns:imunoOnto10="http://nemo.inf.ufes.br/imunoOnto.owl#2"
+     xmlns:imunoOnto11="http://nemo.inf.ufes.br/imunoOnto.owl#12"
+     xmlns:imunoOnto12="http://nemo.inf.ufes.br/imunoOnto.owl#15"
+     xmlns:imunoOnto13="http://nemo.inf.ufes.br/imunoOnto.owl#3"
+     xmlns:imunoOnto14="http://nemo.inf.ufes.br/imunoOnto.owl#1"
+     xmlns:Characterization5="http://nemo.inf.ufes.br/imunoOnto.owl#Characterization5.1"
+     xmlns:Characterization14="http://nemo.inf.ufes.br/imunoOnto.owl#Characterization14.Drreia_p/">
+    <owl:Ontology rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Antigeno_do_tipo -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Antigeno_do_tipo"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Aplicada -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Aplicada"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Aplicada_em -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Aplicada_em"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#CompletarEsquema_vacinal -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#CompletarEsquema_vacinal"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Composiçao -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Composiçao"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#De -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#De"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Depende -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Depende"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Do_tipo -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Do_tipo"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#E_uma -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#E_uma"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Entre_as_doses -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Entre_as_doses"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Esquema -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Esquema"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Estado_de -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Estado_de"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Evento -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Evento"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Fase -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Fase"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Faz_parte -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Faz_parte"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Genero -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Genero"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#HistoricoVacinal -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#HistoricoVacinal"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Idade -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Idade"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#IniciarEsquema -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#IniciarEsquema"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Numero -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Numero"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#NumeroR -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#NumeroR"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Numero_de_dose -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Numero_de_dose"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Pode_mudar_dependendo -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pode_mudar_dependendo"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Possui -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Possui"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Possui_um -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Possui_um"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Previne -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Previne"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Primeiro_reforco -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Primeiro_reforco"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Protege_contra -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Protege_contra"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#RecebeUmaDose -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#RecebeUmaDose"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#RecebeVacina -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#RecebeVacina"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Segui -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Segui"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Segunda_dose -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Segunda_dose"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Segundo_reforco -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Segundo_reforco"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Tem -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Tem"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#TemAlergia -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#TemAlergia"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Tem_uma -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Tem_uma"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Tempo_de -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Tempo_de"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Terceira_dose -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Terceira_dose"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Um_tipo_de -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Um_tipo_de"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Uma -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Uma"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Uma_via -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Uma_via"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_adm -->
+
+    <owl:ObjectProperty rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_adm"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Adolecente -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Adolecente">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_a_14_anos"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_a_19_anos"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_e_12_anos"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#12_a_17_anos"/>
+                </owl:unionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vivo"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Adulto -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Adulto">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#18_a_59_anos"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#20_a_59_anos"/>
+                </owl:unionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vivo"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Alergia -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Alergia"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Antigeno -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Antigeno"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Ao_nascer_ -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Ao_nascer_">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Apartir_20_semana_de_gestacao -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Apartir_20_semana_de_gestacao">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#De"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Gestante"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Gestante"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Atenuada -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Atenuada">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#E_uma"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#composicao"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#composicao"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#BCG_ -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#BCG_">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#BCG"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Um_tipo_de"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Antigeno"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Antigeno"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Campanha -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Campanha"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Caxumba -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Caxumba">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Conjugada -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Conjugada">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#E_uma"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#composicao"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#composicao"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Coqueluche -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Coqueluche">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Crianca -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Ao_nascer_"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#12_meses"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#15_meses"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#2_meses"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#3_meses"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#4_anos"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#4_meses"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#5_a_11_anos"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#5_meses"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses_a_6_anos"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#9_a_14_anos"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#9_meses"/>
+                </owl:unionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vivo"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#DSV -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#DSV">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Depende"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Esquema_vacinal"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#DTP -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#DTP">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#DTP"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Difteria -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Difteria">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Doenca -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Dose_Unica_ -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Dose_Unica_">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Numero"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Modelo_basico"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Modelo_basico"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Doses -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Doses">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Esquema_vacinal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Duas_Doses -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Duas_Doses">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Numero"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Modelo_basico"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Modelo_basico"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalCompleto -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalCompleto">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#DSV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalIncompleto -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalIncompleto">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#DSV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Esquema_vacinal -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Esquema_vacinal">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Esquema"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doses"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Febre_Amarela -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Febre_Amarela">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Febre_Amarela"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Gestante -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Gestante">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Evento"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Mulher"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Mulher"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#GreaveAovo -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#GreaveAovo">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#GO"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Alergia"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#HPV -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#HPV">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#HPV"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Haemophilus_influenzae_B -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Haemophilus_influenzae_B">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_A -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_A">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_A"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_B_ -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_B_">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_B"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+        <owl:disjointWith rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Menor_de_7Anos"/>
+        <rdfs:comment>(2) A vacina Hepatite B deve ser administrada nas primeiras 24 horas, preferencialmente, nas primeiras 12 horas de vida, ainda na maternidade. Esta dose pode ser administrada até 30 dias após o nascimento. Crianças até 6 (seis) anos 11 meses e 29 dias, sem comprovação ou com 
+esquema vacinal incompleto, iniciar ou completar esquema com penta que está disponível na rotina dos serviços de saúde, com intervalo de 60 dias entre as doses, mínimo de 30 dias, conforme esquema detalhado no tópico da vacina penta. Crianças com 7 anos completos sem 
+comprovação ou com esquema vacinal incompleto: completar 3 (três) doses com a vacina hepatite B com intervalo de 30 dias para a 2ª dose e de 6 meses entre a 1ª e a 3ª</rdfs:comment>
+        <rdfs:comment>Numero_de_dose...</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Homem -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Homem">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#18_a_59_anos"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#20_a_59_anos"/>
+                </owl:unionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+        <owl:disjointWith rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Mulher"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#ID -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#ID">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Uma_via"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_Adm"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_Adm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#IM -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#IM">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Uma_via"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_Adm"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_Adm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Idade -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Idade">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#DSV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Idoso -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Idoso">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vivo"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Inativada -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Inativada">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#E_uma"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#composicao"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#composicao"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Incompleta_Penta -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Incompleta_Penta">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalIncompleto"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Influenza -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Influenza">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Influenza"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Intervalo -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Intervalo">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Esquema_vacinal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Lactante -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Lactante">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Evento"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Mulher"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Mulher"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_C -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_C">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_tipo_ACWY -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_tipo_ACWY">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Meningites -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningites">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Meningites_bacterianas -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningites_bacterianas">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_ACWY -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_ACWY">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_tipo_ACWY"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_C -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_C">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_C"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#MenorDe5anos -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#MenorDe5anos">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Idade"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Menor_de_7Anos -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Menor_de_7Anos">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Idade"/>
+        <owl:disjointWith>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalCompleto"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#RecebeVacina"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_B_"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:disjointWith>
+        <owl:disjointWith>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+                <owl:hasValue rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_B"/>
+            </owl:Restriction>
+        </owl:disjointWith>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Modelo_basico -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Modelo_basico">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Do_tipo"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Modelo_basico"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Do_tipo"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Reforco"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pode_mudar_dependendo"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#DSV"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doses"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Morto -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Morto">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+        <owl:disjointWith rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vivo"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Mulher -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Mulher">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Otites -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Otites">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Penta -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Penta">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Penta"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Homem"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Mulher"/>
+                </owl:unionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Morto"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Vivo"/>
+                </owl:unionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Segui"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Esquema_vacinal"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_10 -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_10">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_10"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_23 -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_23">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_23"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Pneumonias -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumonias">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Poliomielite -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Poliomielite">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Recombinante -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Recombinante">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#E_uma"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#composicao"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#composicao"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Reforco -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Reforco">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doses"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Rubeola -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Rubeola">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#SC -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SC">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Uma_via"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_Adm"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_Adm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#SCR -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SCR">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SCR"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#SCRV -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SCRV">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SCRV"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Sarampo -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Sarampo">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovaçao_Penta -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovaçao_Penta">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalIncompleto"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovaçãoDt -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovaçãoDt">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalIncompleto"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovaçãoHepatiteA -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovaçãoHepatiteA">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalIncompleto"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovação_HepatiteB -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovação_HepatiteB">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalIncompleto"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Sinusites -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Sinusites">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Tetano -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Tetano">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Tres_Doses -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Tres_Doses">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Modelo_basico"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Tuberculose -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Tuberculose">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#VIP -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#VIP">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#VIP"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#VO -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#VO">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Uma_via"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_Adm"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_Adm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#VOP -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#VOP">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#VOP"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#VRH_ -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#VRH_">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#VRH"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Vacina -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Aplicada_em"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Faz_parte"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Esquema_vacinal"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Previne"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tem"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Antigeno"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tem"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#composicao"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tempo_de"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Intervalo"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Possui"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Antigeno"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tem"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#composicao"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tem_uma"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_Adm"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Varicela -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Varicela">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Varicela"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_Adm -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Via_de_Adm"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Viral -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Viral">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Um_tipo_de"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Antigeno"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Antigeno"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Vivo -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Vivo">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#alergiaFA -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#alergiaFA">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Alergia"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#composicao -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#composicao"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#dT -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#dT">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#dT"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#dTpa -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#dTpa">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#dTpa"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Vacina"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#febre_Amarela -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#febre_Amarela">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_A -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_A">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_B -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_B">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#influenza -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#influenza">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#varicela -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#varicela">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#1_reforco -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#1_reforco">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#NumeroR"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Reforco"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Reforco"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#11_a_14_anos -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_a_14_anos">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Adolecente"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#11_a_19_anos -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_a_19_anos">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Adolecente"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#11_e_12_anos -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_e_12_anos">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Adolecente"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#12_a_17_anos -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#12_a_17_anos">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Adolecente"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#12_meses -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#12_meses">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#15_meses -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#15_meses">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#18_a_59_anos -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#18_a_59_anos">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Adulto"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#2_meses -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#2_meses">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#2_reforco -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#2_reforco">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#NumeroR"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Reforco"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Reforco"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#20_a_59_anos -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#20_a_59_anos">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Adulto"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#3_meses -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#3_meses">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#4_anos -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#4_anos">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#4_meses -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#4_meses">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#5_a_11_anos -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#5_a_11_anos">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#5_meses -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#5_meses">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#6_meses -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#6_meses_a_6_anos -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses_a_6_anos">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#9_a_14_anos -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#9_a_14_anos">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#9_meses -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#9_meses">
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Drreia_p/Rotavirus -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Drreia_p/Rotavirus">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Papilomavirus_Humano_6,_11,_16_e_18 -->
+
+    <owl:Class rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Papilomavirus_Humano_6,_11,_16_e_18">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Enfermidade"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Agricultor -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Agricultor">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Adulto"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Homem"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovaçãoDt"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Ana -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Ana">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Menor_de_7Anos"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovaçao_Penta"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Ao_nascer -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Ao_nascer">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Ao_nascer_"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Atenuada -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Atenuada">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Atenuada"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#BCG -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#BCG">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#BCG_"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana"/>
+        <Aplicada rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Ao_nascer"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Atenuada"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Dose_Unica"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tuberculose"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#ID"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Caxumba -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Caxumba">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Caxumba"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Conjugada -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Conjugada">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Conjugada"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Coqueluche -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Coqueluche">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Coqueluche"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Criança -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Criança">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#MenorDe5anos"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovaçãoHepatiteA"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#DTP -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#DTP">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#DTP"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Inativada"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tres_Doses"/>
+        <Primeira_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#15_meses"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Coqueluche"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Difteria"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tetano"/>
+        <Segunda_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#4_anos"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Difteria -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Difteria">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Difteria"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Dose_Unica -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Dose_Unica">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Dose_Unica_"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Duas_Doses -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Duas_Doses">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Duas_Doses"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalCompleto -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalCompleto">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalCompleto"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalincompleto -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalincompleto">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#EsquemaVacinalIncompleto"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Febre_Amarela -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Febre_Amarela">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Febre_Amarela"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Viral"/>
+        <Aplicada rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#9_meses"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Atenuada"/>
+        <NumeroR rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#1_reforco"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Dose_Unica"/>
+        <Primeiro_reforco rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#4_anos"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#febre_Amarela"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SC"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#GO -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#GO">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#GreaveAovo"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#HPV -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#HPV">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#HPV"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Viral"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Recombinante"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Duas_Doses"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Papilomavirus_Humano_6,_11,_16_e_18"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Haemophilus_influenzae_B -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Haemophilus_influenzae_B">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Haemophilus_influenzae_B"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_A -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_A">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_A"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Viral"/>
+        <Aplicada rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#15_meses"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Inativada"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Dose_Unica"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_A"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_B -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_B">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_B_"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Viral"/>
+        <Aplicada rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Ao_nascer"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Recombinante"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_B"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Historico_vacinal -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Historico_vacinal"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#ID -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#ID">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#ID"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#IM -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#IM">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Idoso -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Idoso">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Idoso"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Inativada -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Inativada">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Inativada"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Influenza -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Influenza">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Influenza"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Viral"/>
+        <Aplicada rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses_a_6_anos"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Inativada"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#influenza"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SC"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Julia -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Julia">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_C -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_C">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_C"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_C"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_tipo_ACWY -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_tipo_ACWY">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_tipo_ACWY"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Meningites -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningites">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Meningites"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Meningites_bacterianas -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningites_bacterianas">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Meningites_bacterianas"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_ACWY -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_ACWY">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_ACWY"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana"/>
+        <Aplicada rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#11_e_12_anos"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Conjugada"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Dose_Unica"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_tipo_ACWY"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_C -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_C">
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Conjugada"/>
+        <NumeroR rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#1_reforco"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Duas_Doses"/>
+        <Primeira_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#3_meses"/>
+        <Primeiro_reforco rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#12_meses"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Meningite_meningococica_C"/>
+        <Segunda_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#5_meses"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Menor_de_7Anos -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Menor_de_7Anos">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Menor_de_7Anos"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Otites -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Otites">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Otites"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Penta -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Penta">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Penta"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Inativada"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tres_Doses"/>
+        <Primeira_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#2_meses"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Coqueluche"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Haemophilus_influenzae_B"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_B"/>
+        <Segunda_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#4_meses"/>
+        <Terceira_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa_2 -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa_2">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses"/>
+        <Terceira_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VIP"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa_3 -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa_3">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Incompleta_Penta"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Menor_de_7Anos"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa_4 -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa_4">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Menor_de_7Anos"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovaçao_Penta"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa_5 -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa_5">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Alergia"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#9_meses"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_10 -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_10">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_10"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Conjugada"/>
+        <NumeroR rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#1_reforco"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Duas_Doses"/>
+        <Primeira_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#2_meses"/>
+        <Primeiro_reforco rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#12_meses"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Otites"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumonias"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Sinusites"/>
+        <Segunda_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#4_meses"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_23 -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_23">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_23"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Inativada"/>
+        <NumeroR rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#1_reforco"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Meningites"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumonias"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Sinusites"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Pneumonias -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumonias">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumonias"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Poliomielite -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Poliomielite">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Poliomielite"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Recombinante -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Recombinante">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Recombinante"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Rubeola -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Rubeola">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Rubeola"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#SC -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SC">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SC"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#SCR -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SCR">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SCR"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Viral"/>
+        <Aplicada rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#12_meses"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Atenuada"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Dose_Unica"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Caxumba"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Rubeola"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Sarampo"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SC"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#SCRV -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SCRV">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SCRV"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Viral"/>
+        <Aplicada rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#15_meses"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Atenuada"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Dose_Unica"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Caxumba"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Rubeola"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Sarampo"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#varicela"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SC"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Sarampo -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Sarampo">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Sarampo"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Sinusites -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Sinusites">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Sinusites"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Tetano -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Tetano">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tetano"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Tres_Doses -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Tres_Doses">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tres_Doses"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Tuberculose -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Tuberculose">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tuberculose"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#VIP -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#VIP">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VIP"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Viral"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Inativada"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tres_Doses"/>
+        <Primeira_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#2_meses"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Poliomielite"/>
+        <Segunda_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#4_meses"/>
+        <Terceira_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#VO -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#VO">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VO"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#VOP -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#VOP">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VOP"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Viral"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Atenuada"/>
+        <NumeroR rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#2_reforco"/>
+        <Primeiro_reforco rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#15_meses"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Poliomielite"/>
+        <Segundo_reforco rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#4_anos"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VO"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#VRH -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#VRH">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VRH_"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Viral"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Atenuada"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Duas_Doses"/>
+        <Primeira_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#2_meses"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Drreia_p/Rotavirus"/>
+        <Segunda_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#4_meses"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VO"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Varicela -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Varicela">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Varicela"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Viral"/>
+        <Aplicada rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#4_anos"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Atenuada"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Dose_Unica"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#varicela"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SC"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Viral -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Viral">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Viral"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#dT -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#dT">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#dT"/>
+        <Antigeno_do_tipo rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Bacteriana"/>
+        <Composiçao rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Inativada"/>
+        <Numero_de_dose rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tres_Doses"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Difteria"/>
+        <Protege_contra rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Tetano"/>
+        <Via_de_adm rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#dTpa -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#dTpa">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#dTpa"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#febre_Amarela -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#febre_Amarela">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#febre_Amarela"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_A -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_A">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Doenca"/>
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_A"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_B -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_B">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#hepatite_B"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#influenza -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#influenza">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#influenza"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#pessoa_1 -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#pessoa_1">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Ao_nascer_"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#vacina2 -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#vacina2"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#vacina3 -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#vacina3"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#varicela -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#varicela">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#varicela"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#1_reforco -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#1_reforco">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#1_reforco"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#11_a_14_anos -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_a_14_anos">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#11_a_14_anos"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#11_a_19_anos -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_a_19_anos">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#11_a_19_anos"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#11_e_12_anos -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_e_12_anos">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#11_e_12_anos"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#12_a_17_anos -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#12_a_17_anos">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#12_a_17_anos"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#12_meses -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#12_meses">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#12_meses"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#15_meses -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#15_meses">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#15_meses"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#18_a_59_anos -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#18_a_59_anos">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#18_a_59_anos"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#2_meses -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#2_meses"/>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#2_reforco -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#2_reforco">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#2_reforco"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#20_a_59_anos -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#20_a_59_anos">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#20_a_59_anos"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#3_meses -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#3_meses">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#3_meses"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#4_anos -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#4_anos">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#4_anos"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#4_meses -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#4_meses">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#4_meses"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#5_a_11_anos -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#5_a_11_anos">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#5_a_11_anos"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#5_meses -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#5_meses">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#5_meses"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#6_meses -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#6_meses_a_6_anos -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses_a_6_anos">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses_a_6_anos"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#9_a_14_anos -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#9_a_14_anos">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#9_a_14_anos"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#9_meses -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#9_meses">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#9_meses"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Drreia_p/Rotavirus -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Drreia_p/Rotavirus">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Drreia_p/Rotavirus"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://nemo.inf.ufes.br/imunoOnto.owl#Papilomavirus_Humano_6,_11,_16_e_18 -->
+
+    <owl:NamedIndividual rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Papilomavirus_Humano_6,_11,_16_e_18">
+        <rdf:type rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Papilomavirus_Humano_6,_11,_16_e_18"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Adulto"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovaçãoDt"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IniciarEsquema"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#dT"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Alergia"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#TemAlergia"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#GreaveAovo"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Ao_nascer_"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#RecebeVacina"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#BCG_"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#RecebeVacina"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_B_"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Apartir_20_semana_de_gestacao"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#dTpa"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#MenorDe5anos"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#RecebeUmaDose"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#dT"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Menor_de_7Anos"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovaçao_Penta"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#IniciarEsquema"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Penta"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Menor_de_7Anos"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Incompleta_Penta"/>
+                    <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#SemComprovação_HepatiteB"/>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#CompletarEsquema_vacinal"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Penta"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_a_14_anos"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_ACWY"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#12_meses"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SCR"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeiro_reforco"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_10"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#15_meses"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Hepatite_A"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeiro_reforco"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#DTP"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeiro_reforco"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VOP"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Segunda_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#SCRV"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#2_meses"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Penta"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_10"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VIP"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VRH_"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#3_meses"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_C"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#4_anos"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeiro_reforco"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Febre_Amarela"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Segunda_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Varicela"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Segundo_reforco"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#DTP"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Segundo_reforco"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VOP"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#4_meses"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Segunda_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Penta"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Segunda_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Pneumococica_10"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Segunda_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VIP"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Segunda_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VRH_"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#5_meses"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Segunda_dose"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Meningococica_C"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Terceira_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Penta"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Terceira_dose"/>
+                        <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#VIP"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#9_a_14_anos"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#HPV"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class>
+        <owl:intersectionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Pessoa"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#9_meses"/>
+        </owl:intersectionOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Primeira_dose"/>
+                <owl:someValuesFrom rdf:resource="http://nemo.inf.ufes.br/imunoOnto.owl#Febre_Amarela"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Adolecente"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Adulto"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Crianca"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Idoso"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#Ao_nascer_"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#12_meses"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#15_meses"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#2_meses"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#3_meses"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#4_anos"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#4_meses"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#5_a_11_anos"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#5_meses"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#6_meses_a_6_anos"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#9_a_14_anos"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#9_meses"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_a_14_anos"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_a_19_anos"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#11_e_12_anos"/>
+            <rdf:Description rdf:about="http://nemo.inf.ufes.br/imunoOnto.owl#12_a_17_anos"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
